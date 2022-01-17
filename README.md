@@ -1,5 +1,5 @@
 # Login-Logout
-An application for fetching details of any Github handle.
+An application for fetching details and signup of any form with static JSON file.
 In this project we have used following dependencies.
 
 - [x] node 
